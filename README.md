@@ -1,0 +1,2 @@
+# lintasmediatama
+PT. Lintas Mediatama
